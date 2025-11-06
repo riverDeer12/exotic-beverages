@@ -331,6 +331,8 @@ a.more {
 
 .product-section .product-item .product-thumbnail {
   margin-bottom: 30px;
+  width: 60px;
+  height: auto;
   position: relative;
   top: 0;
   -webkit-transition: .3s all ease;
